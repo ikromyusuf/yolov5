@@ -1,5 +1,4 @@
-train: ../train_data/images/train/  # train images (relative to 'path') 128 images
-val: ../train_data/images/val/  # val images (relative to 'path') 128 images
+train: dataset_licence_plate_yolo_v5/images/train/  # train images (relative to 'path') 128 images
 # Classes
 names:
   0: licence
