@@ -1,7 +1,7 @@
-path: ../dataset_licence_plate_yolo_v5  # dataset root dir
+path: ../train_data  # dataset root dir
 train: images  # train images (relative to 'path') 128 images
 val: images  # val images (relative to 'path') 128 images
 # Classes
 names:
-  0: licence
+  0: emergancy
 
