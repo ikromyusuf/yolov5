@@ -3,5 +3,5 @@ train: images/train  # train images (relative to 'path') 128 images
 val: images/train  # val images (relative to 'path') 128 images
 # Classes
 names:
-  0: o't_o'chiruvchi
-  1: +tezyordam
+  0: O't o'chiruvchi
+  1: Tez yordam
